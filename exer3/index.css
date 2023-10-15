@@ -1,0 +1,14 @@
+body{
+    border: double 22px red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18pt;
+    
+}
+form{
+    width: 400px;
+    padding: 30px;
+}
+
+input[type="text"] {
+    font-size: 18pt;
+    border: 1px solid black;}
